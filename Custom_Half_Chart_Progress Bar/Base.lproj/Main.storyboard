@@ -17,10 +17,10 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="R38-jZ-Ri8" customClass="HalfCircleProgressView" customModule="Custom_Half_Chart_Progress_Bar" customModuleProvider="target">
-                                <rect key="frame" x="16" y="59" width="361" height="128"/>
+                                <rect key="frame" x="16" y="59" width="361" height="120"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="128" id="9xv-Ml-BbP"/>
+                                    <constraint firstAttribute="height" constant="120" id="9xv-Ml-BbP"/>
                                 </constraints>
                             </view>
                         </subviews>
